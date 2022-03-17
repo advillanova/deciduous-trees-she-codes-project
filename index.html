@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Deciduous trees</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Deciduous Trees</h1>
+      <h2>and their magic color changing</h2>
+      <img
+        src="https://i0.wp.com/familyconnectionscc.org/wp-content/uploads/2020/10/fall-1072821_1920.jpg?resize=1536%2C1024&ssl=1"
+        alt="fall tree"
+        width="400"
+      />
+      <p>
+        Are you also enchanted by the magic of color changing trees in the fall?
+        These magical color changing trees are called deciduous, which means:
+        "falling off at maturity", just like our baby teeth, for instance. The
+        color changing process, on the other hand, is caused by the ability of
+        trees, as well as other plants and beings, to perceive the weather and
+        sunlight adjustment, and so, changing their leaf color and, finally,
+        falling.
+      </p>
+
+      <ul>
+        <span class="firstColor">
+          🌳 Green: Chlorophyll is essential for plants to produce energy. When
+          the sunlight starts to fade, they produce less of it.
+        </span>
+        <img
+          src="https://biologydictionary.net/wp-content/uploads/2017/05/Acer-saccharinum-leaves.jpg"
+          alt="green leaf"
+          width="200"
+        />
+
+        <span class="secondColor">
+          🍂 Yellow and Orange: The yellow and orange leaves are a result of
+          "carotinoids" pigment.</span
+        >
+        <img
+          src="https://www.stock-free.org/images/xautumn-leaves-yellow-leaves-leaf-21837386.jpg.pagespeed.ic.ONHJkiQfSc.jpg"
+          alt="yellow leaf"
+          width="200"
+        />
+
+        <span class="thirdColor">
+          🍁 Red: The shorter days and lack of chlorophyll also produce a lovely
+          red pigment called anthocyanin.</span
+        >
+        <img
+          src="https://i1.wp.com/www.rayzorsedgetreeservice.com/wp-content/uploads/blog-red-maple-fall.jpg?w=400&ssl=1"
+          alt="red leaf"
+          width="200"
+        />
+      </ul>
+      <p>
+        There are around 128 living deciduous species. <br />The opposite of
+        Deciduous is Evergreen. 🌲
+      </p>
+
+      <a
+        href="https://en.wikipedia.org/wiki/Deciduous"
+        target="_blank"
+        class="learn-more"
+      >
+        Learn more on wikipedia
+      </a>
+      <button class="tree-planting">
+        Click here to support planting trees
+      </button>
+      <p class="footer">
+        This page was built by
+        <a
+          href="https://www.linkedin.com/in/aline-delavy-villanova-578085109/"
+          target="_blank"
+          class="aline-villanova"
+        >
+          Aline Villanova
+        </a>
+      </p>
+    </div>
+
+    <script>
+      function plant() {
+        let name = prompt("What is your name?");
+        let email = prompt("What's your email?");
+        let city = prompt("Where are you from?");
+
+        alert(
+          "Thank you for visiting us, " +
+            name +
+            ". We'll be sending you information about the best tree seeds for " +
+            city +
+            ". 🌳"
+        );
+      }
+      let treePlanting = document.querySelector(".tree-planting");
+      treePlanting.addEventListener("click", plant);
+    </script>
+  </body>
+</html>
