@@ -18,13 +18,12 @@ So, the LandingPage ended up as a very simple, but true one. 🤍
   - CSS
   - JavaScript
 <BR>
-<BR>
-[<img src="./she-codes-landing-page.gif">](https://www.shecodes.io/workshops/shecodes-basics-4f5562dc-43ea-454e-91d8-11776fe3d6d0/projects/544001%20target=%22_blank%22)
+<img src="./she-codes-landing-page.gif">
 <BR>
 <img src="./she-codes-landing-page-js.gif">
 <BR>
 
-## LinkedIn:
+## Volte sempre :)
 ### [Aline Delavy Villanova](https://www.linkedin.com/in/aline-delavy-villanova-578085109/)
 <br>
 
