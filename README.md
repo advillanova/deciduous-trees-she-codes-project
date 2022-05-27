@@ -20,14 +20,15 @@ So, the LandingPage ended up as a very simple, but true one. 🤍
 <BR>
 <img src="./she-codes-landing-page.gif">
 <BR>
+<p align="center">
 <img src="./she-codes-landing-page-js.gif">
 <BR>
 
-## Volte sempre :)
+## Thanks for reading :)
 ### [Aline Delavy Villanova](https://www.linkedin.com/in/aline-delavy-villanova-578085109/)
 <br>
 
-
 ![GitHub followers](https://img.shields.io/github/followers/advillanova?style=social)
+</p>
 
 
