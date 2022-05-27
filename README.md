@@ -1,4 +1,4 @@
-# Deciduous Trees 🍁
+<h1 align="center"> Deciduous Trees 🍁 </h1>
 
 ## Sobre o projeto:
 Esta foi a [primeira LandingPage criada por mim](https://www.shecodes.io/workshops/shecodes-basics-4f5562dc-43ea-454e-91d8-11776fe3d6d0/projects/544001%20target=%22_blank%22) A escolha do tema veio da paixão que tenho por árvores, principalmente pelas que mudam de cor e as folhas caem no outono. 🍂
